@@ -1,4 +1,5 @@
 // Sean's code
+// Test 2
 #include <GL/glew.h>
 #include <SDL.h>
 #include <iostream>
